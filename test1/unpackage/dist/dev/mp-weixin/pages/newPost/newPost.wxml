@@ -1,0 +1,1 @@
+<view class="post-creation"><form bindsubmit="{{f}}"><input type="text" placeholder="标题" value="{{a}}" bindinput="{{b}}"/><block wx:if="{{r0}}"><textarea placeholder="正文" value="{{c}}" bindinput="{{d}}"></textarea></block><input type="file" bindchange="{{e}}" accept="image/*"/><button type="submit">发布</button></form></view>

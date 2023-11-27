@@ -1,0 +1,18 @@
+
+.image-list {
+  padding: 10px;
+}
+uni-list-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+image {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+text {
+  flex: 1;
+  line-height: 1.5;
+}

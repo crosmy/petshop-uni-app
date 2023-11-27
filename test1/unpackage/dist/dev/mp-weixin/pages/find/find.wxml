@@ -1,0 +1,1 @@
+<view class="image-list"><uni-list u-s="{{['d']}}" u-i="4540b9ee-0" bind:__l="__l"><uni-list-item wx:for="{{a}}" wx:for-item="item" wx:key="d" u-s="{{['d']}}" u-i="{{item.e}}" bind:__l="__l"><image src="{{item.a}}" mode="aspectFill"></image><text>{{item.b}}</text><text>{{item.c}}</text></uni-list-item></uni-list></view>

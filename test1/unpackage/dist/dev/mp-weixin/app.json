@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/register/register",
+    "pages/index/index",
+    "pages/find/find",
+    "pages/newPost/newPost",
+    "pages/profile/profile",
+    "pages/login/login"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

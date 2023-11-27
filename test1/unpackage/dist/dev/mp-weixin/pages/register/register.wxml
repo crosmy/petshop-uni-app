@@ -1,0 +1,1 @@
+<view class="register"><input type="text" placeholder="昵称" value="{{a}}" bindinput="{{b}}"/><input type="email" placeholder="邮箱地址" value="{{c}}" bindinput="{{d}}"/><input type="password" placeholder="密码" value="{{e}}" bindinput="{{f}}"/><input type="password" placeholder="重复密码" value="{{g}}" bindinput="{{h}}"/><button bindtap="{{i}}">注册</button></view>
